@@ -1,0 +1,5 @@
+{
+  "externalPages": [
+    { "mount": "/lists", "path": "~/apps/lists" }
+  ]
+}
